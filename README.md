@@ -1,0 +1,2 @@
+# medicard
+First meteor app.
