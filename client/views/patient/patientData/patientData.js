@@ -1,0 +1,1 @@
+Template.patientData.patient = this;
